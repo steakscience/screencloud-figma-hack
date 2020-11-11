@@ -6,15 +6,13 @@ To us, this means that people should be able to use the tools that they’re fam
 
 For our hackathon project, we set out to see if we could make Company TV using external tools and plug them into ScreenCloud.
 
-The answer is yes, with an asterisk. There are lots of creative things we can do, but they require some fiddling.
-
-***
+The answer is yes, with an asterisk. There are lots of creative things we can do, but they require some fiddling
 
 ## The tech stack
 
 The hack uses a data pipeline, Figma, and ScreenCloud API.
 
-<img>
+{{ img of flowchart explainer }}
 
 ### Figma
 
@@ -37,8 +35,8 @@ For displaying on screens, we use a live embed of each frame. This is amazing be
 ***
 
 **Team:**
-- @varshard
-- @restingisimportant
-- @doganyazar
-- @michalscreen
-- @steakscience
+- [@varshard](https://github.com/varshard)
+- [@restingisimportant](https://github.com/restingisimportant)
+- [@doganyazar](https://github.com/doganyazar)
+- [@michalscreen](https://github.com/michalscreen)
+- [@steakscience](https://github.com/steakscience)
