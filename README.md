@@ -8,7 +8,10 @@ For our hackathon project, we set out to see if we could make Company TV using e
 
 The answer is yes, with an asterisk. There are lots of creative things we can do, but they require some fiddling
 
+([Loom demo here](https://www.loom.com/share/c18dfc9e58bc4162a058e21509b9fece))
+
 **End Result:**
+
 ![](assets/screen.png)
 
 ## The tech stack
