@@ -28,7 +28,7 @@ For retrieving data, we use [JSON to Figma](https://www.figma.com/community/plug
 
 **Note:** Currently, plugins have to be run manually, meanings constant updates aren’t possible. Running plugins automatically will likely be possible in the future, but in the meantime, we think we can fork the plugin to loop and run forever — a hack for getting constant updates.
 
-For displaying on screens, we use a live embed of each frame. This is amazing because changes are instantly reflect on all screens.
+For displaying on screens, we use a live embed of each frame. This is amazing because changes are instantly reflected on all screens.
 
 ![](assets/live_embed.gif)
 
@@ -36,7 +36,14 @@ For displaying on screens, we use a live embed of each frame. This is amazing be
 
 ### ScreenCloud API
 
-{{ stuff about using triggers to switch channels using set content to screens API, our insomnia testing set up }}
+We can also take advantage of the ScreenCloud API to conditionally change content. Instead of time-based looping content, we can show certain content when we need to.
+
+**Example:** 
+- Show regular content on screen
+- Automatically switch to an error dashboard when there’s a new error. 
+- After the error has been fixed, we can switch back.
+
+
 
 ***
 
