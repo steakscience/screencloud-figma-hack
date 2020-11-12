@@ -1,4 +1,4 @@
-# Creating Company TV using Figma & a data pipeline
+# Creating Company TV using Figma + a data pipeline
 
 Luke once described ScreenCloud as a way to manage all the content on all your screens.
 
