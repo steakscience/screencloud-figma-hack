@@ -8,6 +8,8 @@ For our hackathon project, we set out to see if we could make Company TV using e
 
 The answer is yes, with an asterisk. There are lots of creative things we can do, but they require some fiddling
 
+![](assets/screen.png)
+
 ## The tech stack
 
 The hack uses a data pipeline, Figma, and ScreenCloud API.
@@ -20,14 +22,15 @@ We used Figma because it is a very popular design tool, and has a very robust pl
 
 Because all the design is managed in Figma, users have total control over the look and feel. And when they need to, they can change the design (fonts, colors, layout, etc), and all the content will magically update.
 
-![](assets/Calendar_pre.png)
-![](assets/Calendar.png)
-
 For retrieving data, we use [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma). With this plugin, we can input a JSON file (ie. Calendar events for ScreenCloud Together) into our calendar template.
+
+![](assets/json_populate.gif)
 
 **Note:** Currently, plugins have to be run manually, meanings constant updates aren’t possible. Running plugins automatically will likely be possible in the future, but in the meantime, we think we can fork the plugin to loop and run forever — a hack for getting constant updates.
 
 For displaying on screens, we use a live embed of each frame. This is amazing because changes are instantly reflect on all screens.
+
+![](assets/live_embed.gif)
 
 **Note:** Because of the iframe limitation on ScreenCloud Player, we wrap the embeds in HTML files, hosted on GitHub Pages, with a little styling to hide Figma UI. The output HTML file is then added to ScreenCloud using the Links feature.
 
