@@ -43,7 +43,7 @@ We can also take advantage of the ScreenCloud API to conditionally change conten
 - Automatically switch to an error dashboard when there’s a new error. 
 - After the error has been fixed, we can switch back.
 
-
+![](assets/switch_links.gif)
 
 ***
 
