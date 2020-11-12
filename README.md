@@ -20,6 +20,9 @@ We used Figma because it is a very popular design tool, and has a very robust pl
 
 Because all the design is managed in Figma, users have total control over the look and feel. And when they need to, they can change the design (fonts, colors, layout, etc), and all the content will magically update.
 
+![](assets/Calendar_pre.png)
+![](assets/Calendar.png)
+
 For retrieving data, we use [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma). With this plugin, we can input a JSON file (ie. Calendar events for ScreenCloud Together) into our calendar template.
 
 **Note:** Currently, plugins have to be run manually, meanings constant updates aren’t possible. Running plugins automatically will likely be possible in the future, but in the meantime, we think we can fork the plugin to loop and run forever — a hack for getting constant updates.
