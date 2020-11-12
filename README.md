@@ -8,13 +8,14 @@ For our hackathon project, we set out to see if we could make Company TV using e
 
 The answer is yes, with an asterisk. There are lots of creative things we can do, but they require some fiddling
 
+**End Result:**
 ![](assets/screen.png)
 
 ## The tech stack
 
 The hack uses a data pipeline, Figma, and ScreenCloud API.
 
-{{ img of flowchart explainer }}
+![](assets/flowchart.jpg)
 
 ### Figma
 
