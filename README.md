@@ -35,8 +35,8 @@ For displaying on screens, we use a live embed of each frame. This is amazing be
 ***
 
 **Team:**
-- [@varshard](https://github.com/varshard)
-- [@restingisimportant](https://github.com/restingisimportant)
-- [@doganyazar](https://github.com/doganyazar)
-- [@michalscreen](https://github.com/michalscreen)
-- [@steakscience](https://github.com/steakscience)
+- Title Plinsut ([@varshard](https://github.com/varshard))
+- Golf Positwinyu ([@restingisimportant](https://github.com/restingisimportant))
+- Dogan Yazar ([@doganyazar](https://github.com/doganyazar))
+- Michal Mikolajczyk ([@michalscreen](https://github.com/michalscreen))
+- Fame Jittipairoj ([@steakscience](https://github.com/steakscience))
