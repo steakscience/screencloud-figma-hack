@@ -30,7 +30,7 @@ For retrieving data, we use [JSON to Figma](https://www.figma.com/community/plug
 
 ![](assets/json_populate.gif)
 
-**Note:** Currently, plugins have to be run manually, meanings constant updates aren’t possible. Running plugins automatically will likely be possible in the future, but in the meantime, we think we can fork the plugin to loop and run forever — a hack for getting constant updates.
+**Note:** Currently, plugins have to be run manually, meaning constant updates aren’t possible. Running plugins automatically will likely be possible in the future, but in the meantime, we think we can fork the plugin to loop and run forever — a hack for getting constant updates.
 
 For displaying on screens, we use a live embed of each frame. This is amazing because changes are instantly reflected on all screens.
 
