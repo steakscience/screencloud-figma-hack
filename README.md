@@ -1,6 +1,6 @@
 # Creating Company TV using Figma + a data pipeline
 
-[Loom demo](https://www.loom.com/share/c18dfc9e58bc4162a058e21509b9fece)
+[[Loom demo](https://www.loom.com/share/c18dfc9e58bc4162a058e21509b9fece)]
 
 Luke once described ScreenCloud as a way to manage all the content on all your screens.
 
