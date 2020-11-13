@@ -2,9 +2,9 @@
 
 ## Figma file
 
-The Figma file can be downloaded [here](resources/example_figma_template.fig), and the JSON downloaded [here](resources/calendar.json). The plugin we used during the hackathon was [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma), but any similar plugin should work fine.
+The Figma file can be downloaded [here](example_figma_template.fig), and the JSON downloaded [here](calendar.json). The plugin we used during the hackathon was [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma), but any similar plugin should work fine.
 
-To get around ScreenCloud players’ iframe limitation, we recommend putting Figma embeds inside our [example HTML file](resources/embed.html), then host it using services like Github Pages. The resulting link can be added to ScreenCloud via the Links feature.
+To get around ScreenCloud players’ iframe limitation, we recommend putting Figma embeds inside our [example HTML file](embed.html), then host it using services like Github Pages. The resulting link can be added to ScreenCloud via the Links feature.
 
 ## ScreenCloud API
 
