@@ -10,7 +10,7 @@ For our hackathon project, we set out to see if we could make Company TV using e
 
 The answer is yes, with an asterisk. There are lots of creative things we can do, but they require some fiddling
 
-**End Result:**
+**What we made:**
 
 ![](assets/screen.png)
 
