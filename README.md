@@ -1,5 +1,7 @@
 # Creating Company TV using Figma + a data pipeline
 
+[Loom demo](https://www.loom.com/share/c18dfc9e58bc4162a058e21509b9fece)
+
 Luke once described ScreenCloud as a way to manage all the content on all your screens.
 
 To us, this means that people should be able to use the tools that they’re familiar with and love to use with ScreenCloud.
@@ -7,8 +9,6 @@ To us, this means that people should be able to use the tools that they’re fam
 For our hackathon project, we set out to see if we could make Company TV using external tools and plug them into ScreenCloud.
 
 The answer is yes, with an asterisk. There are lots of creative things we can do, but they require some fiddling
-
-([Loom demo](https://www.loom.com/share/c18dfc9e58bc4162a058e21509b9fece))
 
 **End Result:**
 
