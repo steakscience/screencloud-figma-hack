@@ -1,0 +1,25 @@
+<html>
+    <body>
+        <style>
+            body {
+                margin: 0;
+                width: 1920px;
+                height: 1080px;
+                /* This is a workaround to hide the Figma embed footer, which is 48px tall */
+                margin-bottom: -48px;
+                overflow: hidden;
+            }
+
+            iframe {
+                /* Hides scrollbars */
+                overflow: hidden;
+            }
+        </style>
+        <!-- Copy the prototype share link, make sure hotspots and UI are hidden in the options, and set scaling to 100% -->
+        <!-- Paste the link after the = in src -->
+        <iframe id="iframe" style="border: none;" width="1920" height="1128"
+            src="https://www.figma.com/embed?embed_host=share&url="
+            allowfullscreen>
+        </iframe>
+    </body>
+</html>

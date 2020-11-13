@@ -1,0 +1,211 @@
+[
+  {
+   "kind": "calendar#event",
+   "etag": "\"3209817854034000\"",
+   "id": "09q413dd9ns9rkvlmcajv8rtph",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDlxNDEzZGQ5bnM5cmt2bG1jYWp2OHJ0cGggY19rYzB1cGNiMWJqZGMzZHQzZ2dzcTc2MjIxMEBn",
+   "created": "2020-11-09T08:02:06.000Z",
+   "updated": "2020-11-09T08:02:07.017Z",
+   "summary": "Hackathon- content recording day",
+   "description": "Time to record your videos for the hackathon",
+   "creator": {
+    "email": "nirawit@screencloud.io"
+   },
+   "organizer": {
+    "email": "c_kc0upcb1bjdc3dt3ggsq762210@group.calendar.google.com",
+    "displayName": "SCT Clone",
+    "self": true
+   },
+   "start": {
+    "date": "2020-11-09"
+   },
+   "end": {
+    "date": "2020-11-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "09q413dd9ns9rkvlmcajv8rtph@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3209817867932000\"",
+   "id": "3ua91fm4l6rodour1h52mm2te2",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3VhOTFmbTRsNnJvZG91cjFoNTJtbTJ0ZTJfMjAyMDExMDlUMDYwMDAwWiBjX2tjMHVwY2IxYmpkYzNkdDNnZ3NxNzYyMjEwQGc",
+   "created": "2020-11-09T08:02:13.000Z",
+   "updated": "2020-11-09T08:02:13.966Z",
+   "summary": "ScreenCloud Radio ",
+   "description": "",
+   "creator": {
+    "email": "nirawit@screencloud.io"
+   },
+   "organizer": {
+    "email": "c_kc0upcb1bjdc3dt3ggsq762210@group.calendar.google.com",
+    "displayName": "SCT Clone",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-11-09T13:00:00+07:00",
+    "timeZone": "Europe/London",
+    "date": "2020-11-09"
+   },
+   "end": {
+    "dateTime": "2020-11-10T03:00:00+07:00",
+    "timeZone": "Europe/London",
+    "date": "2020-11-09"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20201114T235959Z;BYDAY=FR,MO,TH,TU,WE"
+   ],
+   "iCalUID": "3ua91fm4l6rodour1h52mm2te2@google.com",
+   "sequence": 0,
+   "hangoutLink": "https://meet.google.com/rae-xujo-cri",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/rae-xujo-cri",
+      "label": "meet.google.com/rae-xujo-cri"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/rae-xujo-cri?pin=6365096433324",
+      "pin": "6365096433324"
+     },
+     {
+      "regionCode": "GB",
+      "entryPointType": "phone",
+      "uri": "tel:+44-20-3956-3736",
+      "label": "+44 20 3956 3736",
+      "pin": "621240425"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://lh5.googleusercontent.com/proxy/bWvYBOb7O03a7HK5iKNEAPoUNPEXH1CHZjuOkiqxHx8OtyVn9sZ6Ktl8hfqBNQUUbCDg6T2unnsHx7RSkCyhrKgHcdoosAW8POQJm_ZEvZU9ZfAE7mZIBGr_tDlF8Z_rSzXcjTffVXg3M46v"
+    },
+    "conferenceId": "rae-xujo-cri",
+    "signature": "AGkP/s3WWFawijXDKoLZLMDIcB7X"
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3209817922816000\"",
+   "id": "60uq2tkeq4e8npkhpatkubjv63",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjB1cTJ0a2VxNGU4bnBraHBhdGt1Ymp2NjMgY19rYzB1cGNiMWJqZGMzZHQzZ2dzcTc2MjIxMEBn",
+   "created": "2020-11-09T08:02:41.000Z",
+   "updated": "2020-11-09T08:02:41.408Z",
+   "summary": "💬 Luke Founders Speech",
+   "description": "Join Zoom Meeting https://screencloud.zoom.us/j/95460260611?pwd=d3h1dGNVWmhIMlpiYzRGaEUraEh2Zz09 PASSCODE: 309724",
+   "creator": {
+    "email": "nirawit@screencloud.io"
+   },
+   "organizer": {
+    "email": "c_kc0upcb1bjdc3dt3ggsq762210@group.calendar.google.com",
+    "displayName": "SCT Clone",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-11-09T17:00:00+07:00",
+    "date": "2020-11-09"
+   },
+   "end": {
+    "dateTime": "2020-11-09T17:30:00+07:00",
+    "date": "2020-11-09"
+   },
+   "iCalUID": "60uq2tkeq4e8npkhpatkubjv63@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3209817934206000\"",
+   "id": "20upq2kn8baib3sfoburgvnsin",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjB1cHEya244YmFpYjNzZm9idXJndm5zaW4gY19rYzB1cGNiMWJqZGMzZHQzZ2dzcTc2MjIxMEBn",
+   "created": "2020-11-09T08:02:47.000Z",
+   "updated": "2020-11-09T08:02:47.103Z",
+   "summary": "Breathwork wellbeing session (OPTIONAL) ",
+   "description": "You can do this session either sitting or lying down, although it may be more comfortable for you to lie on a yoga mat.",
+   "creator": {
+    "email": "nirawit@screencloud.io"
+   },
+   "organizer": {
+    "email": "c_kc0upcb1bjdc3dt3ggsq762210@group.calendar.google.com",
+    "displayName": "SCT Clone",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-11-09T18:00:00+07:00",
+    "date": "2020-11-09"
+   },
+   "end": {
+    "dateTime": "2020-11-09T18:30:00+07:00",
+    "date": "2020-11-09"
+   },
+   "iCalUID": "20upq2kn8baib3sfoburgvnsin@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3209817946062000\"",
+   "id": "3hbpfqso6n6c2gfn0o7dps2v72",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2hicGZxc282bjZjMmdmbjBvN2RwczJ2NzIgY19rYzB1cGNiMWJqZGMzZHQzZ2dzcTc2MjIxMEBn",
+   "created": "2020-11-09T08:02:53.000Z",
+   "updated": "2020-11-09T08:02:53.031Z",
+   "summary": "💬 McD Founders Speech",
+   "description": "Join Zoom Meeting\nhttps://screencloud.zoom.us/j/96256705906?pwd=dis2UWY0cXBhRC9yU0ZMbUl2RWVqQT09\nPASSCODE: 812699",
+   "creator": {
+    "email": "nirawit@screencloud.io"
+   },
+   "organizer": {
+    "email": "c_kc0upcb1bjdc3dt3ggsq762210@group.calendar.google.com",
+    "displayName": "SCT Clone",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-11-09T20:00:00+07:00",
+    "date": "2020-11-09"
+   },
+   "end": {
+    "dateTime": "2020-11-09T20:30:00+07:00",
+    "date": "2020-11-09"
+   },
+   "iCalUID": "3hbpfqso6n6c2gfn0o7dps2v72@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3209817954806000\"",
+   "id": "5e78hrd7m5j7khuulb5vu30h5d",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWU3OGhyZDdtNWo3a2h1dWxiNXZ1MzBoNWQgY19rYzB1cGNiMWJqZGMzZHQzZ2dzcTc2MjIxMEBn",
+   "created": "2020-11-09T08:02:57.000Z",
+   "updated": "2020-11-09T08:02:57.403Z",
+   "summary": "💬 David Founders Speech",
+   "description": "Join Zoom Meeting\nhttps://screencloud.zoom.us/j/91348612458?pwd=U1pLeGNaQTYrS2ErMDN3ZkxRWUlnUT09\nPASSCODE: 280130",
+   "creator": {
+    "email": "nirawit@screencloud.io"
+   },
+   "organizer": {
+    "email": "c_kc0upcb1bjdc3dt3ggsq762210@group.calendar.google.com",
+    "displayName": "SCT Clone",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-11-09T22:00:00+07:00",
+    "date": "2020-11-09"
+   },
+   "end": {
+    "dateTime": "2020-11-09T22:30:00+07:00",
+    "date": "2020-11-09"
+   },
+   "iCalUID": "5e78hrd7m5j7khuulb5vu30h5d@google.com",
+   "sequence": 0
+  }
+ ]

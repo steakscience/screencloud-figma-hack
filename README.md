@@ -49,6 +49,9 @@ We can also take advantage of the ScreenCloud API to conditionally change conten
 
 ![](assets/switch_links.gif)
 
+## Resources
+Code samples and example files are available [here].
+
 ***
 
 **Team:**
