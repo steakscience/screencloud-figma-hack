@@ -8,7 +8,7 @@ For our hackathon project, we set out to see if we could make Company TV using e
 
 The answer is yes, with an asterisk. There are lots of creative things we can do, but they require some fiddling
 
-([Loom demo here](https://www.loom.com/share/c18dfc9e58bc4162a058e21509b9fece))
+([Loom demo](https://www.loom.com/share/c18dfc9e58bc4162a058e21509b9fece))
 
 **End Result:**
 
@@ -50,7 +50,8 @@ We can also take advantage of the ScreenCloud API to conditionally change conten
 ![](assets/switch_links.gif)
 
 ## Resources
-Code samples and example files are available [here].
+- [Code samples & example files](https://github.com/steakscience/screencloud-figma-hack/tree/main/resources)
+- [Loom demo](https://www.loom.com/share/c18dfc9e58bc4162a058e21509b9fece)
 
 ***
 
