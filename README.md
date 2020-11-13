@@ -57,7 +57,7 @@ We can also take advantage of the ScreenCloud API to conditionally change conten
 
 **Team:**
 - Title Plinsut ([@varshard](https://github.com/varshard))
+- Michal Mikolajczyk ([@michalscreen](https://github.com/michalscreen))
 - Golf Positwinyu ([@restingisimportant](https://github.com/restingisimportant))
 - Dogan Yazar ([@doganyazar](https://github.com/doganyazar))
-- Michal Mikolajczyk ([@michalscreen](https://github.com/michalscreen))
-- Fame Jittipairoj ([@steakscience](https://github.com/steakscience))
+- Nirawit Jittipairoj ([@steakscience](https://github.com/steakscience))
